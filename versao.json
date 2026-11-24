@@ -1,8 +1,8 @@
 {
- "versao": "1.9.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.9.0/Instalar.Escravo.CLT.exe",
- "tamanho": 189293219,
- "sha256": "09236804987e44f982789c7f85c05f67305cbcb410905a7f9121f39fd7f81d18",
- "notas": "Silhueta animada do chefe estalando o chicote enquanto o reel é produzido. Internet mais confiável em PCs com antivírus que inspeciona HTTPS ou Windows desatualizado (o teste de internet não trava mais a instalação da IA).",
- "publicado": "2026-11-24 17:22"
+ "versao": "1.10.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.10.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 189343853,
+ "sha256": "530faf04400ccc86b1fa6e04d7a90a4f6e075bb14187738a0f46dceeb97312d3",
+ "notas": "Corrige erro CERTIFICATE_VERIFY_FAILED em PCs com antivírus que inspeciona HTTPS: o programa confere certificados do jeito do Windows e, se precisar, baixa pelo próprio Windows (curl). Vale para a IA, atualizações, fotos e bloqueio.",
+ "publicado": "2026-11-24 17:35"
 }

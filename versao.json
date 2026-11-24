@@ -1,8 +1,8 @@
 {
- "versao": "1.11.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.11.0/Instalar.Escravo.CLT.exe",
- "tamanho": 189348931,
- "sha256": "c0d294456b3d047d9eb0f8584af1393f20aeac8e62fdc9c31324bdd3411448d3",
- "notas": "Log ao vivo enquanto produz o reel: cada etapa com andamento (download, transcrição, IA pensando, corte, fotos, encaixe), relógio e aviso se ficar 2 minutos sem novidade. O log também fica salvo em arquivo.",
- "publicado": "2026-11-24 18:08"
+ "versao": "1.12.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.12.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 189349087,
+ "sha256": "e60e180a9ff7ccacd9911814daee0de61a5e51606d9853daada71bbe36b0d17f",
+ "notas": "Fotos muito melhores: a IA descreve o que deve aparecer na foto e cita as pessoas da notícia; o programa busca retrato da pessoa, filtra pinturas, desenhos, mapas e logos e ordena pelas que mais combinam. Com placa de vídeo, a IA também olha cada foto e dá nota. Vídeos agora vão para a pasta 'Vídeos feitos pelo Escravo CLT'.",
+ "publicado": "2026-11-24 18:27"
 }

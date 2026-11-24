@@ -1,8 +1,8 @@
 {
- "versao": "1.8.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.8.0/Instalar.Escravo.CLT.exe",
- "tamanho": 189302411,
- "sha256": "da02b0564d4b61d886834a468868214f1688731a5ebb7d6c8b89bb9ca7f514ea",
- "notas": "Atualização mais confiável (confere por vários caminhos, continua o download se cair e confere o arquivo). Confere os requisitos do computador antes de instalar a IA e antes de atualizar. Instalador pede permissão para instalar o que faltar (WebView2) e avisa sobre memória e espaço.",
- "publicado": "2026-11-24 17:09"
+ "versao": "1.9.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.9.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 189293219,
+ "sha256": "09236804987e44f982789c7f85c05f67305cbcb410905a7f9121f39fd7f81d18",
+ "notas": "Silhueta animada do chefe estalando o chicote enquanto o reel é produzido. Internet mais confiável em PCs com antivírus que inspeciona HTTPS ou Windows desatualizado (o teste de internet não trava mais a instalação da IA).",
+ "publicado": "2026-11-24 17:22"
 }

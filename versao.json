@@ -1,8 +1,8 @@
 {
- "versao": "1.13.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.13.0/Instalar.Escravo.CLT.exe",
- "tamanho": 189356417,
- "sha256": "61d46d437fee800df1c63b171c2aef1f5efef48fba301bd9e44fa688ab534a7b",
- "notas": "Cor do título (amarelo, branco, vermelho); tamanho do reel automático até 90 s com mais contexto e sempre com a conclusão; nova animação do chefe chicoteando o robô.",
- "publicado": "2026-11-25 14:22"
+ "versao": "1.14.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.14.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 189490788,
+ "sha256": "83d2b37032600a3a0f410c9af07463ebc17a92f62cdf7e6b9508308d73734429",
+ "notas": "Legenda nas falas no padrão The Quick (IA revisa o texto, dá para editar; não cobre rosto nem tarja; tamanho e altura ajustáveis); botão Assistir reel com a capa; pausas automáticas a partir de 0,5 s; controles da capa maiores com botões − e +.",
+ "publicado": "2026-11-25 15:04"
 }

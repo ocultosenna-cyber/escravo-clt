@@ -1,8 +1,8 @@
 {
- "versao": "1.12.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.12.0/Instalar.Escravo.CLT.exe",
- "tamanho": 189349087,
- "sha256": "e60e180a9ff7ccacd9911814daee0de61a5e51606d9853daada71bbe36b0d17f",
- "notas": "Fotos muito melhores: a IA descreve o que deve aparecer na foto e cita as pessoas da notícia; o programa busca retrato da pessoa, filtra pinturas, desenhos, mapas e logos e ordena pelas que mais combinam. Com placa de vídeo, a IA também olha cada foto e dá nota. Vídeos agora vão para a pasta 'Vídeos feitos pelo Escravo CLT'.",
- "publicado": "2026-11-24 18:27"
+ "versao": "1.13.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.13.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 189356417,
+ "sha256": "61d46d437fee800df1c63b171c2aef1f5efef48fba301bd9e44fa688ab534a7b",
+ "notas": "Cor do título (amarelo, branco, vermelho); tamanho do reel automático até 90 s com mais contexto e sempre com a conclusão; nova animação do chefe chicoteando o robô.",
+ "publicado": "2026-11-25 14:22"
 }

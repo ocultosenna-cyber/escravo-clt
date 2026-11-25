@@ -1,8 +1,8 @@
 {
- "versao": "1.16.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.16.0/Instalar.Escravo.CLT.exe",
- "tamanho": 190857088,
- "sha256": "862c579495f1d0651437b51660dc48e512b6f911022f08307d4f74097072341b",
- "notas": "ESCRAVO CLT PRO: Radar de pautas políticas (portais, Google em alta, YouTube; reel preparado sozinho), capa agressiva e legenda karaokê são PRO; upgrade pelo painel na mesma chave; programa destrava sozinho ao ser desbloqueado; placar do administrador (online e reels feitos).",
- "publicado": "2026-11-25 16:35"
+ "versao": "1.16.1",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.16.1/Instalar.Escravo.CLT.exe",
+ "tamanho": 190866425,
+ "sha256": "49685abfc585e144a68440c85054173e2e78a01ffb39bcb8a7ea38fd68ea2068",
+ "notas": "Radar: notícias aparecem na hora (a IA completa a nota depois); Em alta no Google mostra os 10 mais buscados (políticos em destaque); PRO liberado pelo painel em até 1 minuto.",
+ "publicado": "2026-11-25 18:30"
 }

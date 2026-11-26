@@ -1,8 +1,8 @@
 {
- "versao": "1.20.4",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.4/Instalar.Escravo.CLT.exe",
- "tamanho": 191022017,
- "sha256": "4d24106cd33ccca6eb8c809a1618833d8d5670a5fc530f41c89818952440578a",
- "notas": "Câmara: 'Requerimento' e 'Andamento na Prefeitura' agora em 1.999 das 2.000 indicações (o programa passou a entender também o número antigo da Prefeitura, ex.: 25/08/06852).",
- "publicado": "2026-11-26 17:38"
+ "versao": "1.20.5",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.5/Instalar.Escravo.CLT.exe",
+ "tamanho": 191014911,
+ "sha256": "f8b810967602df6f322a708998633c2d6c2b20ad709095ea3cb8b5bbb1bcc74f",
+ "notas": "Os erros que acontecerem no programa agora chegam ao administrador (só PC, versão, etapa e tipo do erro — sem nada dos vídeos, sem links nem nomes de arquivo).",
+ "publicado": "2026-11-26 17:52"
 }

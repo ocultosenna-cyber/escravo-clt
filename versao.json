@@ -1,8 +1,8 @@
 {
- "versao": "1.19.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.0/Instalar.Escravo.CLT.exe",
- "tamanho": 190948175,
- "sha256": "c8419b4e931f557994c22ea70dd1823adff70ba5c4d012d05ec14946f4f04908",
- "notas": "Nova aba Câmara (PRO): tudo da vereadora na Câmara de Campinas pelos dados abertos oficiais — projetos, indicações por rua e bairro com PDF e botão Abrir no Maps, requerimentos, moções, emendas e presença nas reuniões. Busca por rua, bairro ou palavra.",
- "publicado": "2026-11-26 15:19"
+ "versao": "1.19.1",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.1/Instalar.Escravo.CLT.exe",
+ "tamanho": 190932353,
+ "sha256": "7582592af3bc0036a611325bfd83a0a3c6dd9c1feb0e33c75589fc98f79b4a1e",
+ "notas": "Aba Câmara com abas no topo: GERAL (balanço de tudo: números, presença, balanço por ano, bairros, ruas, o que mais pediu e últimas matérias), INDICAÇÕES, REQUERIMENTOS, PROJETOS DE LEI, MOÇÕES e EMENDAS.",
+ "publicado": "2026-11-26 15:25"
 }

@@ -1,8 +1,8 @@
 {
- "versao": "1.20.1",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.1/Instalar.Escravo.CLT.exe",
- "tamanho": 191022581,
- "sha256": "cff14b875b4eb962f309af641a0772277a333fcf18477a59f5b41c20957d6a86",
- "notas": "Câmara: botão '📝 Requerimento' em cada indicação — a IA escreve o pedido de urgência, o programa preenche o seu modelo .odt do gabinete (número do protocolo PMC automático ou do 156, data de hoje) e gera o PDF pronto em Requerimentos.",
- "publicado": "2026-11-26 17:02"
+ "versao": "1.20.2",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.2/Instalar.Escravo.CLT.exe",
+ "tamanho": 191029092,
+ "sha256": "2a161ccd57c88bda82f768991bb1b6f90af1f328715fc6725042e7d30841daa5",
+ "notas": "Requerimento: sempre o mesmo texto do seu modelo, sem o parágrafo de urgência; só mudam o protocolo da Prefeitura (PMC, preenchido sozinho) e a data. O botão aparece nas indicações que têm protocolo PMC.",
+ "publicado": "2026-11-26 17:13"
 }

@@ -1,8 +1,8 @@
 {
- "versao": "1.19.2",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.2/Instalar.Escravo.CLT.exe",
- "tamanho": 190968101,
- "sha256": "51967e8a719d1f934b7764103bf5f298c9e92d38166e05ae01f19ada841fd50c",
- "notas": "Câmara: botão 'Andamento na Prefeitura' nas indicações (ao lado do Maps) — abre a consulta da Prefeitura já preenchida (ano, Protocolo Vereador, número); é só marcar 'Não sou um robô' e Pesquisar. Nº da Prefeitura aparece na indicação (clique copia) e dá para buscar por ele.",
- "publicado": "2026-11-26 15:37"
+ "versao": "1.19.3",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.3/Instalar.Escravo.CLT.exe",
+ "tamanho": 190959280,
+ "sha256": "b170159e7663f83273af840001aac72335b83a82ef0e6d3a9330548e7caf6625",
+ "notas": "Correção: em alguns PCs a IA demorava mais de 45 s para ligar e dava erro. Agora espera até 3 minutos, fecha sozinho um motor da IA travado, tenta de novo sozinho e grava o motivo em logs/ollama.log.",
+ "publicado": "2026-11-26 16:06"
 }

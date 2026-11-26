@@ -1,8 +1,8 @@
 {
- "versao": "1.20.5",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.5/Instalar.Escravo.CLT.exe",
- "tamanho": 191014911,
- "sha256": "f8b810967602df6f322a708998633c2d6c2b20ad709095ea3cb8b5bbb1bcc74f",
- "notas": "Os erros que acontecerem no programa agora chegam ao administrador (só PC, versão, etapa e tipo do erro — sem nada dos vídeos, sem links nem nomes de arquivo).",
- "publicado": "2026-11-26 17:52"
+ "versao": "1.20.6",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.6/Instalar.Escravo.CLT.exe",
+ "tamanho": 191019809,
+ "sha256": "78cfef8d250eed82e9a64e951d2c8dfac098d2dc511a91025a8e40f6fbe61ae9",
+ "notas": "Visual novo: janela sem a barra branca do Windows (minimizar, maximizar e fechar em amarelo no topo; arraste pelo topo), logo maior, 'IA ligada' em verde brilhante, barra de rolagem preta e amarela e as 4 abas sem barra de rolagem lateral.",
+ "publicado": "2026-11-26 18:25"
 }

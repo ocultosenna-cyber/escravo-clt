@@ -1,8 +1,8 @@
 {
- "versao": "1.20.2",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.2/Instalar.Escravo.CLT.exe",
- "tamanho": 191029092,
- "sha256": "2a161ccd57c88bda82f768991bb1b6f90af1f328715fc6725042e7d30841daa5",
- "notas": "Requerimento: sempre o mesmo texto do seu modelo, sem o parágrafo de urgência; só mudam o protocolo da Prefeitura (PMC, preenchido sozinho) e a data. O botão aparece nas indicações que têm protocolo PMC.",
- "publicado": "2026-11-26 17:13"
+ "versao": "1.20.3",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.3/Instalar.Escravo.CLT.exe",
+ "tamanho": 191047010,
+ "sha256": "303f3acfda6cb99514a694d5db2b22b83880d25f26e9a53f833c8a3648c76b95",
+ "notas": "Termômetro: o mapa de Campinas agora aparece também na rede da Câmara (que bloqueava o servidor de mapas). Usa o OpenStreetMap e, se um servidor não responder, troca sozinho para outro.",
+ "publicado": "2026-11-26 17:31"
 }

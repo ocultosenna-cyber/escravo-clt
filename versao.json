@@ -1,8 +1,8 @@
 {
- "versao": "1.19.3",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.3/Instalar.Escravo.CLT.exe",
- "tamanho": 190959280,
- "sha256": "b170159e7663f83273af840001aac72335b83a82ef0e6d3a9330548e7caf6625",
- "notas": "Correção: em alguns PCs a IA demorava mais de 45 s para ligar e dava erro. Agora espera até 3 minutos, fecha sozinho um motor da IA travado, tenta de novo sozinho e grava o motivo em logs/ollama.log.",
- "publicado": "2026-11-26 16:06"
+ "versao": "1.20.0",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.0/Instalar.Escravo.CLT.exe",
+ "tamanho": 191037062,
+ "sha256": "915601da4efb6637497526c8ad9f706a04316ab5d264d4e4ef7f64dddf7c8439",
+ "notas": "Nova aba Termômetro (PRO): mapa de Campinas com onde a vereadora mais atua (indicações), onde teve votos (Vereadora 2024 e Deputada Estadual 2026, dados do TSE) e o cruzamento: base forte, eleitor esquecido e onde mostrar o trabalho. Também: botão de atualizar dentro do erro da IA e tela final sem 'legendar no CapCut'.",
+ "publicado": "2026-11-26 16:53"
 }

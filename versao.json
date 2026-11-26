@@ -1,8 +1,8 @@
 {
- "versao": "1.16.1",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.16.1/Instalar.Escravo.CLT.exe",
- "tamanho": 190866425,
- "sha256": "49685abfc585e144a68440c85054173e2e78a01ffb39bcb8a7ea38fd68ea2068",
- "notas": "Radar: notícias aparecem na hora (a IA completa a nota depois); Em alta no Google mostra os 10 mais buscados (políticos em destaque); PRO liberado pelo painel em até 1 minuto.",
- "publicado": "2026-11-25 18:30"
+ "versao": "1.16.2",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.16.2/Instalar.Escravo.CLT.exe",
+ "tamanho": 190876554,
+ "sha256": "ff2c1d2429e0363e961123aaea6ad8abf02d135082f00145162512fd92a46413",
+ "notas": "Corte sem pulos: video longo vira um trecho seguido com frases inteiras; nomes de politicos certos; Radar com noticias de bolso (impostos, IR, IOF, conta de luz, gasolina) e filtro Bolso; pagina inicial nova com abas grandes e estimativa de tempo; Radar espera enquanto voce faz um reel",
+ "publicado": "2026-11-26 11:45"
 }

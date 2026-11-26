@@ -1,8 +1,8 @@
 {
- "versao": "1.20.0",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.0/Instalar.Escravo.CLT.exe",
- "tamanho": 191037062,
- "sha256": "915601da4efb6637497526c8ad9f706a04316ab5d264d4e4ef7f64dddf7c8439",
- "notas": "Nova aba Termômetro (PRO): mapa de Campinas com onde a vereadora mais atua (indicações), onde teve votos (Vereadora 2024 e Deputada Estadual 2026, dados do TSE) e o cruzamento: base forte, eleitor esquecido e onde mostrar o trabalho. Também: botão de atualizar dentro do erro da IA e tela final sem 'legendar no CapCut'.",
- "publicado": "2026-11-26 16:53"
+ "versao": "1.20.1",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.1/Instalar.Escravo.CLT.exe",
+ "tamanho": 191022581,
+ "sha256": "cff14b875b4eb962f309af641a0772277a333fcf18477a59f5b41c20957d6a86",
+ "notas": "Câmara: botão '📝 Requerimento' em cada indicação — a IA escreve o pedido de urgência, o programa preenche o seu modelo .odt do gabinete (número do protocolo PMC automático ou do 156, data de hoje) e gera o PDF pronto em Requerimentos.",
+ "publicado": "2026-11-26 17:02"
 }

@@ -1,8 +1,8 @@
 {
- "versao": "1.19.1",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.1/Instalar.Escravo.CLT.exe",
- "tamanho": 190932353,
- "sha256": "7582592af3bc0036a611325bfd83a0a3c6dd9c1feb0e33c75589fc98f79b4a1e",
- "notas": "Aba Câmara com abas no topo: GERAL (balanço de tudo: números, presença, balanço por ano, bairros, ruas, o que mais pediu e últimas matérias), INDICAÇÕES, REQUERIMENTOS, PROJETOS DE LEI, MOÇÕES e EMENDAS.",
- "publicado": "2026-11-26 15:25"
+ "versao": "1.19.2",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.19.2/Instalar.Escravo.CLT.exe",
+ "tamanho": 190968101,
+ "sha256": "51967e8a719d1f934b7764103bf5f298c9e92d38166e05ae01f19ada841fd50c",
+ "notas": "Câmara: botão 'Andamento na Prefeitura' nas indicações (ao lado do Maps) — abre a consulta da Prefeitura já preenchida (ano, Protocolo Vereador, número); é só marcar 'Não sou um robô' e Pesquisar. Nº da Prefeitura aparece na indicação (clique copia) e dá para buscar por ele.",
+ "publicado": "2026-11-26 15:37"
 }

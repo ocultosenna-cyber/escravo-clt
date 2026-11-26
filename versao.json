@@ -1,8 +1,8 @@
 {
- "versao": "1.20.3",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.3/Instalar.Escravo.CLT.exe",
- "tamanho": 191047010,
- "sha256": "303f3acfda6cb99514a694d5db2b22b83880d25f26e9a53f833c8a3648c76b95",
- "notas": "Termômetro: o mapa de Campinas agora aparece também na rede da Câmara (que bloqueava o servidor de mapas). Usa o OpenStreetMap e, se um servidor não responder, troca sozinho para outro.",
- "publicado": "2026-11-26 17:31"
+ "versao": "1.20.4",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.4/Instalar.Escravo.CLT.exe",
+ "tamanho": 191022017,
+ "sha256": "4d24106cd33ccca6eb8c809a1618833d8d5670a5fc530f41c89818952440578a",
+ "notas": "Câmara: 'Requerimento' e 'Andamento na Prefeitura' agora em 1.999 das 2.000 indicações (o programa passou a entender também o número antigo da Prefeitura, ex.: 25/08/06852).",
+ "publicado": "2026-11-26 17:38"
 }

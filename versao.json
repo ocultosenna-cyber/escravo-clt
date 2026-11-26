@@ -1,8 +1,8 @@
 {
- "versao": "1.17.1",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.17.1/Instalar.Escravo.CLT.exe",
- "tamanho": 190916078,
- "sha256": "55833b189e2a259f065d5f7ce3c7f55f2e120989147544ade7a354deef16a173",
- "notas": "Títulos: a IA não cola mais pedaços dos exemplos (ex.: 'LULA TAXA / ALCKMIN NO RALO'); 2ª pergunta só de título; título reserva tirado da manchete; manchete com artigo ('COMBATER O CRIME'); título não elogia a esquerda. 'Conferir reel' não trava mais quando o Radar está preparando outro reel no fundo: o seu clique tem prioridade.",
- "publicado": "2026-11-26 14:08"
+ "versao": "1.17.2",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.17.2/Instalar.Escravo.CLT.exe",
+ "tamanho": 190910816,
+ "sha256": "accf1b72976968e48fc2083e0c6dcb9a002b3af883be66e4c04e48ca6476eb0c",
+ "notas": "Radar não prepara mais reel sozinho no fundo: o reel só é feito quando você clica em Fazer reel. (Inclui as melhorias de título da 1.17.1.)",
+ "publicado": "2026-11-26 14:16"
 }

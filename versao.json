@@ -1,8 +1,8 @@
 {
- "versao": "1.20.6",
- "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.6/Instalar.Escravo.CLT.exe",
- "tamanho": 191019809,
- "sha256": "78cfef8d250eed82e9a64e951d2c8dfac098d2dc511a91025a8e40f6fbe61ae9",
- "notas": "Visual novo: janela sem a barra branca do Windows (minimizar, maximizar e fechar em amarelo no topo; arraste pelo topo), logo maior, 'IA ligada' em verde brilhante, barra de rolagem preta e amarela e as 4 abas sem barra de rolagem lateral.",
- "publicado": "2026-11-26 18:25"
+ "versao": "1.20.7",
+ "url": "https://github.com/ocultosenna-cyber/escravo-clt/releases/download/v1.20.7/Instalar.Escravo.CLT.exe",
+ "tamanho": 191051978,
+ "sha256": "37c403a48a2b932bace6fb7784134d0d59a1c198370c412793fe491b4bb162b0",
+ "notas": "Câmara: protocolo digital (CMC-PR) não tem mais o botão 'Andamento na Prefeitura' (abria processo de outro vereador). O botão fica só no número antigo (ex.: 25/08/06852), que abre o processo certo. Requerimento continua nos dois.",
+ "publicado": "2026-11-26 21:36"
 }
